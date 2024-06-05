@@ -1,10 +1,10 @@
 {
     "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-    "name": "Call trans opt: received. 2-19-98 13:24:18 REC:Log>",
+    "name": "'Call trans opt: received. 2-19-98 13:24:18 REC:Log>'",
     "author": "David C Cavalcante",
     "themes": [
         {
-            "name": "Call trans opt: received. 2-19-98 13:24:18 REC:Log>",
+            "name": "'Call trans opt: received. 2-19-98 13:24:18 REC:Log>'",
             "appearance": "dark",
             "style": {
                 "background": "#000503",
