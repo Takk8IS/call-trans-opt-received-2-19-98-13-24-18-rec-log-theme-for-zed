@@ -1,3 +1,5 @@
+![Call trans opt: received. 2-19-98 13:24:18 REC:Log>](https://github.com/Takk8IS/call-trans-opt-received-2-19-98-13-24-18-rec-log-theme-for-zed/blob/main/assets/icon.jpg?raw=true)
+
 # Call trans opt: received. 2-19-98 13:24:18 REC:Log> Theme for Zed
 
 The "Call trans opt: received. 2-19-98 13:24:18 REC:Log>" theme brings the iconic aesthetic of the shell screen from the 1999 film "The Matrix" to your Zed editor. Inspired by the film's opening command "Call trans opt: received. 2-19-98 13:24:18 REC:Log>", this theme offers a unique and immersive visual experience, capturing the nostalgic essence of green phosphor CRT monitors. Available in a dark version, the theme transforms your coding environment with its distinct green-on-black aesthetics.
@@ -8,7 +10,7 @@ The "Call trans opt: received. 2-19-98 13:24:18 REC:Log>" is designed to evoke t
 
 ### Theme Screenshot
 
-![Call trans opt: received. 2-19-98 13:24:18 REC:Log>](./assets/screenshot-dark.png)
+![Call trans opt: received. 2-19-98 13:24:18 REC:Log>](https://github.com/Takk8IS/call-trans-opt-received-2-19-98-13-24-18-rec-log-theme-for-zed/blob/main/assets/screenshot-dark.png?raw=true)
 
 ### Installation Instructions
 
