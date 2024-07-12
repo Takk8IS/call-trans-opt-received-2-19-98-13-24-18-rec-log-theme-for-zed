@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.1] - 2024-07-12
+
+-   Updated highlight/cue in the tabmenu to be more visible.
+
 ## [0.1.0] - 2024-06-05
 
 -   Creation of the first release, inspired by the iconic shell screen from the 1999 film "The Matrix".
