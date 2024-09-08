@@ -1,10 +1,13 @@
 # Change Log
 
+<<<<<<< HEAD
 ## [0.1.2] - 2024-09-09
 
 -   Fixed deprecated style property: replaced "scrollbar_thumb.background" with "scrollbar.thumb.background".
 -   Updated "font_weight" to "700".
 
+=======
+>>>>>>> e7a5670351a2dab30eee81fac5a84935c68028df
 ## [0.1.1] - 2024-07-12
 
 -   Updated highlight/cue in the tabmenu to be more visible.
